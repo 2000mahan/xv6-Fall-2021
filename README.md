@@ -20,7 +20,7 @@ You could also use gitlab or other repository managers but we prefer GitHub.
 #### The latest xv6 source is available via : 
 git clone git://pdos.csail.mit.edu/xv6/xv6.git
 ## Xv6 kernel hacking 
-### These two phases all are to be done inside the xv6 kernel based on an early version of Unix and developed at MIT. 
+### These three phases all are to be done inside the xv6 kernel based on an early version of Unix and developed at MIT. 
 #### Phase 1 (intro) 
 This first phase is just a warmup and is for you to engage with xv6.
 In the first phase and in your very first experience with xv6 you are expected to add a system call to xv6 and answer some questions about the xv6 operating system.
