@@ -11,8 +11,8 @@ But the main reason we chose xv6 is that we want students to engage with kernel 
 throughout the course according to what you have learnt we expect you to make some modifications so that you will get to know the  xv6 operating system better and you will see that developing an operating system is not as hard as you imagined and it is just a piece of cake.
 ### How are you going to make theses modifications?
 Well your xv6 project is divided into two phases.
-In the first phase we want you to make some modifications to get to know with xv6 operating system and during that I will be available to help you throughout the course so don’t worry.
-In the second phase what you are going to do, is to make some modifications to xv6 just like what you have done in the first phase but it is going to be a little bit of challenge.
+In the first two phases we want you to make some modifications to get to know with xv6 operating system and during that I will be available to help you throughout the course so don’t worry.
+In the second phase what you are going to do, is to make some modifications to xv6 just like what you have done in the first two phase but it is going to be a little bit of challenge.
 ### How are you going to do it?
 The very first thing we want you to do is to create teams of two members and create a private GitHub repository so that we can see you making progress(you could either add me or the instructor to your git repository).
 You could also use gitlab or other repository managers but we prefer GitHub.
@@ -25,10 +25,14 @@ git clone git://pdos.csail.mit.edu/xv6/xv6.git
 This first phase is just a warmup and is for you to engage with xv6.
 In the first phase and in your very first experience with xv6 you are expected to add a system call to xv6 and answer some questions about the xv6 operating system.
 First you need to setup a virtual machine and install a fresh ubuntu operating system on it and then you need to install qemu virtual machine so that you will be able to run xv6 on qemu.
-#### Phase 2 (main)
+#### Phase 2
+In this part you are going to make some crucial modifications. <br />
+#### Phase 3 (main)
 In this part you are going to make some crucial modifications. <br />
 #### Staff
 Instructor: [Dr.Seyyed Ahmad Javadi](https://github.com/sajavadi) <br />
 Course Assistant: [Mahan Ahmadvand](https://github.com/2000mahan) <br />
-
-
+Course Assistant: [Arman Hatami](https://github.com/armanhtm) <br />
+Course Assistant: [Mahdi Rezaie](https://github.com/mahdirezaie336) <br />
+Course Assistant: [Mahdi Rahmani](https://github.com/Mahdi-Rahmani) <br />
+Course Assistant: [Mohammad Reza Qaderi](https://github.com/MohammadRezaQaderi) <br />
