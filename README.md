@@ -34,6 +34,9 @@ You have to define a variable for the values of read counter. (e.g. readcount)
 
 - `int getprocs(void)`    
 returns the number of processes that exist in the system at the time of the call.
+
+Taken from the projects in the Computer Sciences department at the University of Wisconsin-Madison.
+
 #### Phase 2
 In this part you are going to make some crucial modifications. <br />
 #### Phase 3 (main)
