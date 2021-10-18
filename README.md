@@ -24,7 +24,7 @@ git clone git://pdos.csail.mit.edu/xv6/xv6.git
 #### Phase 1 (intro) 
 This first phase is just a warmup and is for you to engage with xv6.
 In the first phase and in your very first experience with xv6 you are expected to add two system calls to xv6.
-First you need to setup a virtual machine and install a fresh ubuntu operating system on it and then you need to install qemu virtual machine so that you will be able to run xv6 on qemu.
+First you need to setup a virtual machine(recommended) and install a fresh ubuntu operating system on it and then you need to install qemu virtual machine so that you will be able to run xv6 on qemu.
 
 - `int getreadcount(void)`    
 Returns the value of a counter which is incremented every time any process calls the read() system call.   
