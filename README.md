@@ -1,5 +1,5 @@
 # xv6-Fall-2021
-## Lead in
+## Introduction
 ### What is xv6?
 Xv6 is a teaching operating system developed in the summer of 2006 for MIT's operating systems course. 
 For many years, MIT had no operating systems course. In the fall of 2002, one was created to teach operating systems engineering. In the course lectures, the class worked through Sixth Edition Unix (aka V6) using John Lions's famous commentary. In the lab assignments, students wrote most of an exokernel operating system, eventually named Jos, for the Intel x86. Exposing students to multiple systems–V6 and Jos–helped develop a sense of the spectrum of operating system designs.
