@@ -23,7 +23,7 @@ git clone git://pdos.csail.mit.edu/xv6/xv6.git
 ### These three phases all are to be done inside the xv6 kernel based on an early version of Unix and developed at MIT. 
 #### Phase 1 (intro) 
 This first phase is just a warmup and is for you to engage with xv6.
-In the first phase and in your very first experience with xv6 you are expected to add a system call to xv6 and answer some questions about the xv6 operating system.
+In the first phase and in your very first experience with xv6 you are expected to add two system calls to xv6.
 First you need to setup a virtual machine and install a fresh ubuntu operating system on it and then you need to install qemu virtual machine so that you will be able to run xv6 on qemu.
 
 - `int getreadcount(void)`    
