@@ -25,6 +25,13 @@ git clone git://pdos.csail.mit.edu/xv6/xv6.git
 This first phase is just a warmup and is for you to engage with xv6.
 In the first phase and in your very first experience with xv6 you are expected to add a system call to xv6 and answer some questions about the xv6 operating system.
 First you need to setup a virtual machine and install a fresh ubuntu operating system on it and then you need to install qemu virtual machine so that you will be able to run xv6 on qemu.
+
+- `int getreadcount(void)`    
+Returns the value of a counter which is incremented every time any process calls the read() system call.   
+You have to define a variable for the values of read counter. (e.g. readcount)  
+
+- `int getprocs(void)`    
+returns the number of processes that exist in the system at the time of the call.
 #### Phase 2
 In this part you are going to make some crucial modifications. <br />
 #### Phase 3 (main)
