@@ -10,7 +10,7 @@ But the main reason we chose xv6 is that we want students to engage with kernel 
 ### But what do we expect you to do?
 throughout the course according to what you have learnt we expect you to make some modifications so that you will get to know the  xv6 operating system better and you will see that developing an operating system is not as hard as you imagined and it is just a piece of cake.
 ### How are you going to make theses modifications?
-Well your xv6 project is divided into two phases.
+Well your xv6 project is divided into three phases.
 In the first two phases we want you to make some modifications to get to know with xv6 operating system and during that I will be available to help you throughout the course so don’t worry.
 In the second phase what you are going to do, is to make some modifications to xv6 just like what you have done in the first two phase but it is going to be a little bit of challenge.
 ### How are you going to do it?
